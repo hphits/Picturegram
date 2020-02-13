@@ -12,7 +12,8 @@
 		28157B9423EFEDC600D4DA00 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28157B9323EFEDC600D4DA00 /* ViewController.swift */; };
 		28157B9723EFEDC600D4DA00 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28157B9523EFEDC600D4DA00 /* Main.storyboard */; };
 		28157B9923EFEDC900D4DA00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 28157B9823EFEDC900D4DA00 /* Assets.xcassets */; };
-		28157B9C23EFEDC900D4DA00 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 28157B9A23EFEDC900D4DA00 /* LaunchScreen.storyboard */; };
+		284FB95423F556CC0030118E /* Launch Screen.storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 284FB95323F556CC0030118E /* Launch Screen.storyboard.storyboard */; };
+		2881071323F552C600734796 /* 3_dribbble-artistic-smoke-portrait-effect-photoshop-psd-template-action-automatic-template-mockup.png in Resources */ = {isa = PBXBuildFile; fileRef = 2881071223F552C600734796 /* 3_dribbble-artistic-smoke-portrait-effect-photoshop-psd-template-action-automatic-template-mockup.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,8 +23,9 @@
 		28157B9323EFEDC600D4DA00 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		28157B9623EFEDC600D4DA00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		28157B9823EFEDC900D4DA00 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		28157B9B23EFEDC900D4DA00 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		28157B9D23EFEDC900D4DA00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		284FB95323F556CC0030118E /* Launch Screen.storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard.storyboard"; sourceTree = "<group>"; };
+		2881071223F552C600734796 /* 3_dribbble-artistic-smoke-portrait-effect-photoshop-psd-template-action-automatic-template-mockup.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "3_dribbble-artistic-smoke-portrait-effect-photoshop-psd-template-action-automatic-template-mockup.png"; path = "../../../Downloads/3_dribbble-artistic-smoke-portrait-effect-photoshop-psd-template-action-automatic-template-mockup.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +61,11 @@
 				28157B8F23EFEDC600D4DA00 /* AppDelegate.swift */,
 				28157B9123EFEDC600D4DA00 /* SceneDelegate.swift */,
 				28157B9323EFEDC600D4DA00 /* ViewController.swift */,
+				284FB95323F556CC0030118E /* Launch Screen.storyboard.storyboard */,
 				28157B9523EFEDC600D4DA00 /* Main.storyboard */,
 				28157B9823EFEDC900D4DA00 /* Assets.xcassets */,
-				28157B9A23EFEDC900D4DA00 /* LaunchScreen.storyboard */,
 				28157B9D23EFEDC900D4DA00 /* Info.plist */,
+				2881071223F552C600734796 /* 3_dribbble-artistic-smoke-portrait-effect-photoshop-psd-template-action-automatic-template-mockup.png */,
 			);
 			path = Picturegram;
 			sourceTree = "<group>";
@@ -125,8 +128,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				28157B9C23EFEDC900D4DA00 /* LaunchScreen.storyboard in Resources */,
+				2881071323F552C600734796 /* 3_dribbble-artistic-smoke-portrait-effect-photoshop-psd-template-action-automatic-template-mockup.png in Resources */,
 				28157B9923EFEDC900D4DA00 /* Assets.xcassets in Resources */,
+				284FB95423F556CC0030118E /* Launch Screen.storyboard.storyboard in Resources */,
 				28157B9723EFEDC600D4DA00 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -153,14 +157,6 @@
 				28157B9623EFEDC600D4DA00 /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		28157B9A23EFEDC900D4DA00 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				28157B9B23EFEDC900D4DA00 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
